@@ -1,5 +1,4 @@
 # QR-Code-Generator-QRIFY-
-# Project Title
 
 A free online QRCode generator 
 
